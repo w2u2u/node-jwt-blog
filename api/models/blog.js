@@ -19,10 +19,6 @@ const BlogSchema = new Schema({
     ],
     default: 'public'
   },
-  author: {
-    type: Schema.Types.ObjectId,
-    ref: 'user'
-  },
   createdDate: {
     type: Date,
     default: Date.now()
