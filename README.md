@@ -1,1 +1,3 @@
-# node-jwt-blog
+## node-jwt-blog
+
+This is example to use JWT for authorization
